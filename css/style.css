@@ -8,6 +8,6 @@ img {
     width: auto;
 }
 
-h1 {
+h1, h3 {
     color:rgb(241, 187, 7);
 }
