@@ -6,7 +6,6 @@
 img {
     height: 300px;
     width: auto;
-    text-align: center;
 }
 
 h1 {
@@ -20,4 +19,12 @@ h1, h3 {
 
 a {
     color:rgb(204, 99, 14);
+}
+
+li {
+    font-family: cursive;
+}
+
+li a {
+    font-family:'Times New Roman', Times, serif
 }
